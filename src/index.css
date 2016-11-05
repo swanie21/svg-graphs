@@ -1,0 +1,21 @@
+body {
+  margin-top: 20px;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.BarGraph {
+  margin-top: 50px;
+}
+
+.InputContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.Input {
+  padding: 0 20px;
+}
